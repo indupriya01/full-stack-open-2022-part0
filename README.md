@@ -1,1 +1,1 @@
-# full-stack-open-2022-part0
+# full-stack-open-2022
